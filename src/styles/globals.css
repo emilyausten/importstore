@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+
+a {
+  text-decoration: none !important;
+}
